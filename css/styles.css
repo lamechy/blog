@@ -1,12 +1,12 @@
-html {
+ html {
     margin: 0;
     padding: 0;
 }
 body {
     font-family: 'Handlee', cursive;
     font-size: 13pt;
-    background-color: #efefef;
-    padding: 10px;
+    background-color: #b0e0e6;
+    padding: 15px;
     margin: 0;
 }
 h1 {
