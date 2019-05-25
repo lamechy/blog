@@ -7,7 +7,7 @@ Developer:Nyakundi Lamech.
 This website contains information pertaining to me including my Background Information,Skills,Hobbies,Completed Projects as well as my Educational Background as required by the objectives given apon its creation.
 
 ## Setup/Installation Requirements
-* The github page is currently live thus the following link will take you to the webpage "https://github.com/lamechy/portfolio"
+* The github page is currently live thus the following link will take you to the webpage "https://github.com/lamechy/blog"
 * As long as you have a compatible browser the document will work
 
 # Known Bugs
