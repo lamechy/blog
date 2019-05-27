@@ -1,4 +1,4 @@
-## Website Name: My portfolio.
+## Website Name: My Blog.
 This is one of my first webpage to creat after a guidance  by the Moringa school LMS and the Technical mentors at Moringa. This is Week 1's Independent Project.regards to the school.
 Date: 24 Friday  May 2019.
 Developer:Nyakundi Lamech.
